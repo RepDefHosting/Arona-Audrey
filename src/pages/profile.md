@@ -1,7 +1,7 @@
 ---
 templateKey: profile-page
 pageSlug: /profile
-pageTitle: Dr. Audrey Arona
+pageTitle: About Dr. Audrey Arona
 metaDescription: "Dr. Arona joined GNR Public Health as a medical consultant and
   initially engaged with public health staff in reviewing clinic charts and
   nurse protocols, as well as assessing nurse laboratory competencies. "
