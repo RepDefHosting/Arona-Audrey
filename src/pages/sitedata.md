@@ -2,7 +2,7 @@
 templateKey: site-data
 published: true
 name: Dr. Audrey Arona
-jobTitle: OBGYN physician
+jobTitle: Physician - Obstetrics/Gynecology
 location: Gainesville, GA
 profileImage:
   src: /img/dr.-audrey-arona-leadership-in-public-health-and-obgyn-care.jpg
