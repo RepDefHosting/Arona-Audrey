@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Audrey Arona
+pageTitle: Dr. Audrey Arona
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
