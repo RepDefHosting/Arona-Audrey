@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Dr. Audrey Arona
+jobTitle: OBGYN physician
+location: Gainesville, GA
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/dr.-audrey-arona-leadership-in-public-health-and-obgyn-care.jpg
+  alt: Dr. Audrey Arona - Leadership in Public Health and OBGYN Care
+siteUrl: https://www.aboutdraudreyarona.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/audrey-arona-7b9014312
     label: Visit
     show: true
   pinterest:
