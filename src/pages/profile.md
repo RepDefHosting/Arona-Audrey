@@ -60,6 +60,8 @@ discoverConnectExplore: Gainesville
 longBiography_MD: |
   {{long_biography}}
 ---
+# A﻿bout Dr. Audrey Arona - Leadership in Public Health and OBGYN Care
+
 Dr. Audrey Arona is an experienced OBGYN physician who led a Lawrenceville, Georgia, private practice from 1999 to 2019. Possessing an extensive public health management background, she most recently guided GNR Public Health as CEO and district health director. Responsible for overall public health management in state and federal programs across three counties, Dr. Audrey Arona oversaw departmental budgets. She assigned expenditures for specific programs and initiatives offered by health centers, environmental health centers, infectious disease clinics, and STD/HIV clinics. Undertaking in-depth evaluations, she also provided guideposts for health department clinics to improve services and boost efficiency and productivity metrics.
 
 Dr. Arona joined GNR Public Health as a medical consultant and initially engaged with public health staff in reviewing clinic charts and nurse protocols, as well as assessing nurse laboratory competencies. She provided diagnostics and treatment to OBGYN patients with sexually transmitted diseases and collaborated with mammogram centers in ensuring quality mammography services. Dr. Arona also undertook surgical care for patients who required advanced gynecological procedures.
